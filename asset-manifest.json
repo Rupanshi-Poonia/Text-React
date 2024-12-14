@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rupanshi-poonia.github.io/Text-React/static/css/main.e6c13ad2.css",
-    "main.js": "/rupanshi-poonia.github.io/Text-React/static/js/main.17eb8a3a.js",
-    "static/js/453.ed3810f9.chunk.js": "/rupanshi-poonia.github.io/Text-React/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/rupanshi-poonia.github.io/Text-React/index.html",
-    "main.e6c13ad2.css.map": "/rupanshi-poonia.github.io/Text-React/static/css/main.e6c13ad2.css.map",
-    "main.17eb8a3a.js.map": "/rupanshi-poonia.github.io/Text-React/static/js/main.17eb8a3a.js.map",
-    "453.ed3810f9.chunk.js.map": "/rupanshi-poonia.github.io/Text-React/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Text-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Text-React/static/js/main.896668c9.js",
+    "static/js/453.ed3810f9.chunk.js": "/Text-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Text-React/index.html",
+    "main.e6c13ad2.css.map": "/Text-React/static/css/main.e6c13ad2.css.map",
+    "main.896668c9.js.map": "/Text-React/static/js/main.896668c9.js.map",
+    "453.ed3810f9.chunk.js.map": "/Text-React/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.17eb8a3a.js"
+    "static/js/main.896668c9.js"
   ]
 }
