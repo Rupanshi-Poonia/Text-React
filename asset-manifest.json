@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rupanshi-Poonia.github.io/Text-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Rupanshi-Poonia.github.io/Text-React/static/js/main.098b0fb4.js",
+    "static/js/453.ed3810f9.chunk.js": "/Rupanshi-Poonia.github.io/Text-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Rupanshi-Poonia.github.io/Text-React/index.html",
+    "main.e6c13ad2.css.map": "/Rupanshi-Poonia.github.io/Text-React/static/css/main.e6c13ad2.css.map",
+    "main.098b0fb4.js.map": "/Rupanshi-Poonia.github.io/Text-React/static/js/main.098b0fb4.js.map",
+    "453.ed3810f9.chunk.js.map": "/Rupanshi-Poonia.github.io/Text-React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.098b0fb4.js"
+  ]
+}
